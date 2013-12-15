@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DynamicPolymor/DynamicPolymor.iml" filepath="$PROJECT_DIR$/DynamicPolymor/DynamicPolymor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalInheritance/FinalInheritance.iml" filepath="$PROJECT_DIR$/FinalInheritance/FinalInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstLesson/FirstLesson.iml" filepath="$PROJECT_DIR$/FirstLesson/FirstLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentionals/Fundamentionals.iml" filepath="$PROJECT_DIR$/Fundamentionals/Fundamentionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Homework.iml" filepath="$PROJECT_DIR$/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClasses/InnerClasses.iml" filepath="$PROJECT_DIR$/InnerClasses/InnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POJO/POJO.iml" filepath="$PROJECT_DIR$/POJO/POJO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticPolymor/StaticPolymor.iml" filepath="$PROJECT_DIR$/StaticPolymor/StaticPolymor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkWithString/WorkWithString.iml" filepath="$PROJECT_DIR$/WorkWithString/WorkWithString.iml" />
+    </modules>
+  </component>
+</project>
+
